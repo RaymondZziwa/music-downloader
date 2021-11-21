@@ -1,0 +1,43 @@
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\Music Downloader for windows.exe.config
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\Music Downloader for windows.exe
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\Music Downloader for windows.pdb
+C:\Projects\ASP.NET\Music Downloader for windows\obj\Debug\Music Downloader for windows.csproj.AssemblyReference.cache
+C:\Projects\ASP.NET\Music Downloader for windows\obj\Debug\Music_Downloader_for_windows.Form1.resources
+C:\Projects\ASP.NET\Music Downloader for windows\obj\Debug\Music_Downloader_for_windows.Properties.Resources.resources
+C:\Projects\ASP.NET\Music Downloader for windows\obj\Debug\Music Downloader for windows.csproj.GenerateResource.cache
+C:\Projects\ASP.NET\Music Downloader for windows\obj\Debug\Music Downloader for windows.csproj.CoreCompileInputs.cache
+C:\Projects\ASP.NET\Music Downloader for windows\obj\Debug\Music Downloader for windows.exe
+C:\Projects\ASP.NET\Music Downloader for windows\obj\Debug\Music Downloader for windows.pdb
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\ASP.NET\Music Downloader for windows\obj\Debug\Music Downloader for windows.csproj.CopyComplete
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\System.Buffers.dll
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\System.Memory.dll
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\System.Numerics.Vectors.dll
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\System.Text.Encodings.Web.dll
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\System.Text.Json.dll
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\System.ValueTuple.dll
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\System.Buffers.xml
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\System.Memory.xml
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\System.Numerics.Vectors.xml
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\System.Text.Encodings.Web.xml
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\System.Text.Json.xml
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\System.ValueTuple.xml
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Projects\ASP.NET\Music Downloader for windows\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
